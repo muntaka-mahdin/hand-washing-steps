@@ -1,6 +1,6 @@
 # Hand-washing step recognition
 
-[![Run notebook](https://github.com/muntaka123/hand-washing-steps/actions/workflows/notebook.yml/badge.svg)](https://github.com/muntaka123/hand-washing-steps/actions/workflows/notebook.yml)
+[![Run notebook](https://github.com/muntaka-mahdin/hand-washing-steps/actions/workflows/notebook.yml/badge.svg)](https://github.com/muntaka-mahdin/hand-washing-steps/actions/workflows/notebook.yml)
 
 Image classifiers that recognise which of eight hand-washing steps is being done in a photo, trained on a small dataset I photographed and labelled myself. It compares a CNN trained from scratch with transfer learning, and shows how much the way you split a small dataset changes the result.
 
@@ -70,6 +70,6 @@ The photos in `data/` are my own and are shared for this project. The code is MI
 
 ## Author
 
-**Muntaka Mahdin** · [GitHub](https://github.com/muntaka123) · [LinkedIn](https://www.linkedin.com/in/muntaka-mahdin-2a80b8233/)
+**Muntaka Mahdin** · [GitHub](https://github.com/muntaka-mahdin) · [LinkedIn](https://www.linkedin.com/in/muntaka-mahdin-2a80b8233/)
 
-More of my projects: [Crime Lens](https://github.com/muntaka123/crime-lens) · [Hotel cancellation prediction](https://github.com/muntaka123/hotel-cancellation-prediction) · [Pet Activity Tracker](https://github.com/muntaka123/pet-activity-tracker) · [Card-G](https://github.com/muntaka123/card-g)
+More of my projects: [Crime Lens](https://github.com/muntaka-mahdin/crime-lens) · [Hotel cancellation prediction](https://github.com/muntaka-mahdin/hotel-cancellation-prediction) · [Pet Activity Tracker](https://github.com/muntaka-mahdin/pet-activity-tracker) · [Card-G](https://github.com/muntaka-mahdin/card-g)
